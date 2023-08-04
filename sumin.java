@@ -7,7 +7,8 @@ public class sumin {
         int b = scan.nextInt();
         int sum=a+b;
         System.out.println("the output is :-");
-        System.out.println(sum);
+        System.out.println("sum="+sum);
 
     }
 }
+
